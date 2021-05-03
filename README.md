@@ -1,1 +1,1 @@
-# Betcoin
+# Bitcoin
